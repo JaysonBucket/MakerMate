@@ -6,6 +6,8 @@ Maker Mate is a declarative Microsoft 365 Copilot agent that guides users throug
 
 This mitigates the single‑document upload constraint in Create and enables asset‑grounded scene progression while separating viewer‑facing messaging from internal production logic such as loop behaviour or sound‑off playback.  
 
+--> sample content: https://youtu.be/dloW_o5IaAY (took about 12 minutes from idea to finish)
+
 
 <img width="430" height="310" alt="image" src="https://github.com/user-attachments/assets/da364076-07fc-43f6-a788-061d3c3144ac" />
 
