@@ -1,5 +1,9 @@
 # Maker Mate – Copilot Create Preparation Agent
 
+This is part of a broader set of Copilot agent and learning materials. Check out my projects site to get an overview:
+https://www.jaysons.dev
+
+## Summary
 Microsoft 365 Copilot Create enables users to generate videos, visuals, and stories from natural language prompts or uploaded material. However, generation results depend heavily on prompt structure, deployment context, and narrative clarity—factors that are not explicitly surfaced during the Create interaction.
 
 Maker Mate is a declarative Microsoft 365 Copilot agent that guides users through the media preparation process prior to generation. It extracts storytelling context from uploaded material (e.g. PowerPoint, PDF, or strategic customer briefings) and translates it into a structured storyboard and production‑note document optimized for Copilot Create.
